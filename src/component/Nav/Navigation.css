@@ -1,0 +1,23 @@
+  
+input.header_input.form-control {
+    width: 320px;
+}
+.our_menu{
+    padding-top: 20px;
+}
+a.nav-link {
+    margin-right: 20px;
+}
+.menu_list{
+    color: black;
+    font-size: 20px;
+}
+.menu_list:hover{
+    color:#5e1f1f57;
+    text-decoration: none;
+}
+.menu_btn{
+    padding: 10px 25px;
+    border-radius: 5px;
+    background: #F9A51A;
+}
